@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jrlapp.vercel.app/](https://jrlapp.vercel.app/)
 
-- 💬 Ask me about **React or Create T3 APP**
+- 💬 Ask me about **React or [Create T3 APP](https://create.t3.gg)**
 
 - 📫 How to reach me **devjrl.programmer@gmail.com**
 
