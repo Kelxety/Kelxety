@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm John Robin Llanzna</h1>
 <h3 align="center">A Software Engineer at PhilSMS & E-Governance Palawan</h3>
 
-- 🔭 I’m currently working on [Provincial Government of Palawan](https://philsms.com/)
+- 🔭 I’m currently working on Provincial Government of Palawan & [PhilSMS](https://philsms.com/)
 
-- 🌱 I’m currently learning **Create-T3-Stack for web & Create-T3-Turbo for android**
+- 🌱 I’m currently learning **Angular with TRPC** 
 
 - 👨‍💻 All of my projects are available at [https://jrlapp.vercel.app/](https://jrlapp.vercel.app/)
 
-- 💬 Ask me about **MERN Stack and of course the NextJS**
+- 💬 Ask me about **React or Create T3 APP**
 
 - 📫 How to reach me **devjrl.programmer@gmail.com**
 
