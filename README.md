@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John Robin Llanazna</h1>
+<h1 align="center">Hi 👋, I'm John Robin Llanzana</h1>
 <h3 align="center">Software Engineer at PGIMDP, Provincial Government of Palawan</h3>
 
 - 🔭 I’m currently working on Provincial Government of Palawan
