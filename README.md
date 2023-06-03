@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm John Robin Llanzana</h1>
 <h3 align="center">Software Engineer at PICTP, Provincial Government of Palawan</h3>
 
-- 🔭 I’m currently working on Provincial Government of Palawan
+- 🔭 I’m currently working on Provincial Government of Palawan and Chromelot
 
 - 🌱 I’m using **Angular or React** for the front end
+
+- Please also check my gitlab account thank :)
 
 - 👨‍💻 All of my projects are available at [https://jrlapp.vercel.app/](https://jrlapp.vercel.app/)
 
