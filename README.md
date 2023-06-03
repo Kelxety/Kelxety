@@ -5,7 +5,7 @@
 
 - 🌱 I’m using **Angular or React** for the front end
 
-- Please also check my gitlab account thank :)
+- Please also check my gitlab account thank you :)
 
 - 👨‍💻 All of my projects are available at [https://jrlapp.vercel.app/](https://jrlapp.vercel.app/)
 
