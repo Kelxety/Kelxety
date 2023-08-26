@@ -20,7 +20,7 @@
 - This are my tech stack
 
   1. Frontend - Angular or React
-  2. Backend - Nodejs, TRPC, FastAPI and PHP with symfony
+  2. Backend - Nodejs, TRPC, FastAPI
   3. ORMs - Prisma or Drizzle
   4. Bootstrap - MUI, Tailwind and SCSS
   5. Serverless - Supabase or Planetscale
