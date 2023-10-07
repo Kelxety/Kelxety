@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Provincial Government of Palawan
 
-- Also doing some Freelance work at my free time
+- 💻 Also doing some Freelance work at my free time
 
 - 🌱 I’m using **Angular, React or Astro** for the front end
 
@@ -14,6 +14,8 @@
 - 📫 How to reach me **devjrl.programmer@gmail.com**
 
 - ⚡ Fun fact **I'm supper dedicated to learn new things!**
+
+- 📂 Link of my CV: https://drive.google.com/file/d/1AgsS516iCNjLo9v-3-YqKMb2oQZTuLCB/view?usp=sharing
 
 - This are my tech stack
 
