@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm John Robin Llanzana</h1>
 <h3 align="center">Software Engineer at PICTP, Provincial Government of Palawan</h3>
 
-- 🔭 I’m currently working on Provincial Government of Palawan and Chromelot
+- 🔭 I’m currently working on Provincial Government of Palawan
 
-- 🌱 I’m using **Angular or React** for the front end
+- Also doing some Freelance work at my free time
 
-- Please also check my gitlab account thank you :)
+- 🌱 I’m using **Angular, React or Astro** for the front end
 
 - 👨‍💻 All of my projects are available at [https://jrlapp.vercel.app/](https://jrlapp.vercel.app/)
 
@@ -13,16 +13,14 @@
 
 - 📫 How to reach me **devjrl.programmer@gmail.com**
 
-- 📄 Know about my experiences [https://jrlapp.vercel.app/](https://jrlapp.vercel.app/)
-
 - ⚡ Fun fact **I'm supper dedicated to learn new things!**
 
 - This are my tech stack
 
-  1. Frontend - Angular or React
-  2. Backend - Nodejs, TRPC, FastAPI
+  1. Frontend - Angular, React or Astro
+  2. Backend - Nodejs (Typescript), FastAPI (python), TRPC (typesafe RPC)
   3. ORMs - Prisma or Drizzle
-  4. Bootstrap - MUI, Tailwind and SCSS
+  4. Bootstrap - Tailwind, Material, Ant Design and SCSS
   5. Serverless - Supabase or Planetscale
 
 <h3 align="left">Connect with me:</h3>
