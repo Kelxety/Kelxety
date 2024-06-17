@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Robin Llanzana</h1>
-<h3 align="center">Software Engineer at PICTP, Provincial Government of Palawan</h3>
+<h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on Provincial Government of Palawan
+- 🔭 I’m currently working as a Consultant Fullstack Developer
 
 - 💻 Also doing some Freelance work at my free time
 
@@ -9,21 +9,17 @@
 
 - 👨‍💻 All of my projects are available at [https://jrlapp.vercel.app/](https://jrlapp.vercel.app/)
 
-- 💬 Ask me about **React or [Create T3 APP](https://create.t3.gg)**
+- 💬 Ask me about **React or Angular**
 
 - 📫 How to reach me **devjrl.programmer@gmail.com**
 
 - ⚡ Fun fact **I'm supper dedicated to learn new things!**
 
-- 📂 Link of my CV: https://drive.google.com/file/d/1AgsS516iCNjLo9v-3-YqKMb2oQZTuLCB/view?usp=sharing
-
 - This are my tech stack
 
   1. Frontend - Angular, React or Astro
-  2. Backend - Nodejs (Typescript), FastAPI (python), TRPC (typesafe RPC)
-  3. ORMs - Prisma or Drizzle
-  4. Bootstrap - Tailwind, Material, Ant Design and SCSS
-  5. Serverless - Supabase or Planetscale
+  2. Backend - Nodejs (Typescript), FastAPI or Django (python),
+  3. Bootstrap - Tailwind, Material, Ant Design and SCSS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
