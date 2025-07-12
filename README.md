@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm John Robin Llanzana</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working as a Consultant Fullstack Developer
-
-- 💻 Also doing some Freelance work at my free time
+- 🔭 I’m currently working as a Senior Software Engineer
 
 - 🌱 I’m using **Angular, React or Astro** for the front end
 
 - 👨‍💻 All of my projects are available at [https://jrlapp.vercel.app/](https://jrlapp.vercel.app/)
 
-- 💬 Ask me about **React or Angular**
+- 💬 Ask me about **The Universe**
 
 - 📫 How to reach me **devjrl.programmer@gmail.com**
 
@@ -18,7 +16,7 @@
 - This are my tech stack
 
   1. Frontend - Angular, React or Astro
-  2. Backend - Nodejs (Typescript), FastAPI or Django (python),
+  2. Backend - Dotnet C#, Nodejs (Typescript), FastAPI or Django (python),
   3. Bootstrap - Tailwind, Material, Ant Design and SCSS
 
 <h3 align="left">Connect with me:</h3>
