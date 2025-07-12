@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Robin Llanzana</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Senior Software Engineer</h3>
 
 - 🔭 I’m currently working as a Senior Software Engineer
 
