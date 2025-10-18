@@ -15,7 +15,7 @@
 
 - 💾 Proficient in **MySQL query optimization** for better API performance
 
-- 📁 All of my projects are available at: _[Your Portfolio or GitHub URL]_
+- 📁 All of my projects are available at: [https://jrlapp.vercel.app/]
 
 - 📫 Reach me at: **programmer@gmail.com**
 
